@@ -3,7 +3,7 @@
 </a>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/marigut/" target="_blank">
+  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marigut" height="30" width="40" />
   </a>
 </p>
