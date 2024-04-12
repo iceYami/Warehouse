@@ -1,12 +1,15 @@
-<a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=1D3CF7&center=true&random=true&width=700&height=79&lines=MAR%C3%8DA+GUTI%C3%89RREZ" />
 </a>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marigut" height="30" width="40" />
   </a>
 </p>
+
 
   ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true)
 </a>
