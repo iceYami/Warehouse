@@ -32,6 +32,7 @@
 - **Cursando:** Grado Superior en Administración de Sistemas Informáticos, Teide IV
 - **2021:** Grado en Sistemas Microinformáticos y Redes, Ilerna
 - **2023:** Curso de LPIC-1, Instituto Profesional De Linux
+- **2024:** CCNA, Ministerio de Trabajo
 - **2023:** Técnico de Ciberseguridad, Instituto Nacional De Ciberseguridad De España
 - **2023:** Certificado de Profesionalidad De Ciberseguridad, Inco Academy
 - **2023:** Postgrado en Selección, Formación y PRL, Universidad Internacional Isabel I
