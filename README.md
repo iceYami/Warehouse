@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/marigut/" target="_blank">
+<a href="https://www.linkedin.com/in/iceyami/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=1D3CF7&center=true&random=true&width=700&height=79&lines=MAR%C3%8DA+GUTI%C3%89RREZ" />
 </a>
 
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-  ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagutierrez95&theme=transparent&show_icons=true)
+  ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true)
 </a>
 
 <hr style="border-color:blue;">
