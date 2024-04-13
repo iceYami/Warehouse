@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif">
-</p>
-
   ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true)
 </a>
 
@@ -137,6 +133,10 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif">
+</p>
 
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
