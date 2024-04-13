@@ -10,17 +10,15 @@
 </a>
 </p>
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif">
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iceYami" height="30" width="40" />
   </a>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif">
+</p>
 
   ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true)
 </a>
