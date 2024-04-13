@@ -41,7 +41,7 @@
 - **Cursando:** Grado Superior en Administración de Sistemas Informáticos, Teide IV
 - **2021:** Grado en Sistemas Microinformáticos y Redes, Ilerna
 - **2023:** Curso de LPIC-1, Instituto Profesional De Linux
-- **2024:** - CCNP – Switching de Cisco, Ministerio de Trabajo y Economía Social
+- **2024:** - CCNP Cisco Certified Network Professional, Ministerio de Trabajo y Economía Social
 - **2023:** Técnico de Ciberseguridad, Instituto Nacional De Ciberseguridad De España
 - **2023:** Certificado de Profesionalidad de Ciberseguridad, Inco Academy
 - **2023:** Postgrado en Selección, Formación y PRL, Universidad Internacional Isabel I
