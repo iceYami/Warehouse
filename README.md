@@ -134,6 +134,11 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
-<hr style="border-color:blue;">
 
-<p></p>
+<p align="center">
+<html lang="en">
+<body>
+    <img src="https://wallpapercave.com/wp/wp10468266.jpg" alt="Imagen">
+</body>
+</html>
+</p>
