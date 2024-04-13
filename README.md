@@ -137,11 +137,3 @@
 <hr style="border-color:blue;">
 
 <p></p>
-
-<p align="center">
-<html lang="en">
-<body>
-    <img src="https://wallpapercave.com/wp/wp10468266.jpg" alt="Imagen">
-</body>
-</html>
-</p>
