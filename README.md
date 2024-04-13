@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+  <a href="https://www.linkedin.com/in/iceyami/">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=3358FF&center=true&random=true&width=700&height=79&lines=MAR%C3%8DA+GUTI%C3%89RREZ" />
 </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
+  <a href="https://www.linkedin.com/in/iceyami/">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
 </a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
@@ -133,6 +133,9 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
+<hr style="border-color:blue;">
+<p></p>
+
 <p align="center">
     <img src="https://wallpapercave.com/wp/wp10468266.jpg">
 
@@ -140,6 +143,9 @@
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
   <img src="https://raw.githubusercontent.com/iceYami/iceYami/main/MakimaTalking.gif" />
 </a>
-</p>
 
-<p></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/iceyami/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&random=false&width=700&height=100&lines=%22When+you+talk+about+%E2%80%9Cnecessary+evil%2C%E2%80%9D+you%E2%80%99re+using+that+term+to+justify+the+evil+acts+you+commit.%22"</a>
+</a>
+</p>
