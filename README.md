@@ -134,6 +134,7 @@
 [![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
 [![Powershell Icon](https://img.icons8.com/color/48/000000/powershell.png)](https://docs.microsoft.com/en-us/powershell/)
 [![Python Icon](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)](https://www.raspberrypi.org/)
 [![Red Hat Icon](https://img.icons8.com/color/48/000000/red-hat.png)](https://www.redhat.com/)
 [![Sandbox Icon](https://img.icons8.com/color/48/000000/sandbox.png)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
 [![SQL Icon](https://img.icons8.com/color/48/000000/sql.png)](https://en.wikipedia.org/wiki/SQL)
