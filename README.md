@@ -46,7 +46,7 @@
 - **2023:** Certificado de Profesionalidad de Ciberseguridad, Inco Academy
 - **2023:** Postgrado en Selección, Formación y PRL, Universidad Internacional Isabel I
 - **2023:** Business English Program Certificate, Universidad Internacional Isabel I
-- **2022:** Habilitación Profesional De Seguridad, Ministerio Del Interior De España
+- **2022:** Habilitación Profesional de Seguridad, Ministerio del Interior de España
 
 <hr style="border-color:blue;">
 <p></p>
