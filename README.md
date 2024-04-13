@@ -133,9 +133,10 @@
 [![VMware Icon](https://img.icons8.com/color/48/000000/vmware.png)](https://www.vmware.com/)
 [![Windows Icon](https://img.icons8.com/color/48/000000/windows-10.png)](https://www.microsoft.com/en-us/windows)
 
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif">
+  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
+  <img src="https://raw.githubusercontent.com/iceYami/iceYami/main/makima.gif?font=Play&size=40&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
+</a>
 </p>
 
 <p align="center">
