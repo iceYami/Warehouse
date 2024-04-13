@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=1D3CF2&center=true&random=true&width=500&height=40&lines=— iceYami —" />
+  <img src="https://readme-typing-svg.demolab.com?font=Play&size=40&pause=1000&color=33A1F3&center=true&random=true&width=500&height=40&lines=— iceYami —" />
 </a>
 </p>
 
