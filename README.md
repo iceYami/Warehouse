@@ -10,14 +10,19 @@
 </a>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iceyami/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iceYami" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true" alt="MG's GitHub stats">
+    </td>
+    <td>
+      <a href="https://github.com/iceyami/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceyami&theme=transparent" alt="Top Langs">
+      </a>
+    </td>
+  </tr>
+</table>
 
-  ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceyami&theme=transparent&show_icons=true)
-</a>
 
 <hr style="border-color:blue;">
 <p></p>
